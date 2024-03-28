@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "TabiSnapUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "tabisnapd",
+			"fps": 20,
+			"name": "TabiSnapDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "tabiwakeup",
+			"fps": 22,
+			"name": "TabiSnapWakeUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tabi_snap",
+	"position": [
+		160,
+		180
+	],
+	"healthicon": "icon-tabi",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		106,
+		133
+	],
+	"camera_position": [
+		60,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF Down pose"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF dancing beat"
+		},
+		{
+			"offsets": [
+				-1,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF Left pose"
+		},
+		{
+			"offsets": [
+				-10,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF Right pose"
+		},
+		{
+			"offsets": [
+				-27,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF Up pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfscarydamn",
+	"position": [
+		240,
+		350
+	],
+	"healthicon": "gfscary",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		28,
+		53
+	],
+	"camera_position": [
+		-500,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

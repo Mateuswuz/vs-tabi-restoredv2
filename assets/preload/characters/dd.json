@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DD IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DD Left pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DD Down pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DD Right pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				53
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DD Up pose",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DD_assets",
+	"position": [
+		220,
+		240
+	],
+	"healthicon": "dd",
+	"flip_x": false,
+	"healthbar_colors": [
+		89,
+		65,
+		99
+	],
+	"camera_position": [
+		-480,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdleMAD",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				173,
+				-18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftMAD",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-123
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownMAD",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				101
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upMAD",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-41
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightMAD",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Tired_Tabi",
+	"position": [
+		210,
+		150
+	],
+	"healthicon": "icon-tabi",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		106,
+		133
+	],
+	"camera_position": [
+		50,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}
