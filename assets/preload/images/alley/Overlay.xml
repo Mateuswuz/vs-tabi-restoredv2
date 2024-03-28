@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Overlay.png">
+	
+	
+	<SubTexture name="Overlay0000" x="1" y="1" width="760" height="1001" frameX="0" frameY="0" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0001" x="763" y="1" width="760" height="1002" frameX="0" frameY="-36" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0002" x="1525" y="1" width="761" height="1002" frameX="0" frameY="-73" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0003" x="2288" y="1" width="760" height="1002" frameX="-1" frameY="-109" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0004" x="3050" y="1" width="760" height="1002" frameX="-1" frameY="-146" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0005" x="1" y="1005" width="760" height="1002" frameX="-1" frameY="-182" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0006" x="763" y="1005" width="760" height="1002" frameX="-1" frameY="-219" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0007" x="1525" y="1005" width="760" height="1002" frameX="-2" frameY="-255" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0008" x="2287" y="1005" width="760" height="1002" frameX="-2" frameY="-292" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0009" x="3049" y="1005" width="760" height="1002" frameX="-2" frameY="-328" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0010" x="1" y="2008" width="760" height="1002" frameX="-2" frameY="-365" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0011" x="763" y="2008" width="761" height="1001" frameX="-2" frameY="-401" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0012" x="1526" y="2008" width="760" height="1001" frameX="-3" frameY="-438" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0013" x="2288" y="2008" width="760" height="1002" frameX="-3" frameY="-474" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0014" x="3050" y="2008" width="760" height="1002" frameX="-3" frameY="-510" frameWidth="763" frameHeight="1548" />
+	<SubTexture name="Overlay0015" x="1" y="3012" width="760" height="1002" frameX="-3" frameY="-547" frameWidth="763" frameHeight="1548" />
+</TextureAtlas>
