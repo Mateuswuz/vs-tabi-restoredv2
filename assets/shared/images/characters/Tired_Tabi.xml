@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tired_Tabi.png">
+<SubTexture name="DownMADTired0000" x="1928" y="510" width="425" height="459" frameX="-4" frameY="-9" frameWidth="439" frameHeight="468" />
+<SubTexture name="DownMADTired0001" x="0" y="1645" width="434" height="452" frameX="0" frameY="-16" frameWidth="439" frameHeight="468" />
+<SubTexture name="DownMADTired0002" x="0" y="1645" width="434" height="452" frameX="0" frameY="-16" frameWidth="439" frameHeight="468" />
+<SubTexture name="DownMADTired0003" x="1928" y="969" width="434" height="457" frameX="-2" frameY="-10" frameWidth="439" frameHeight="468" />
+<SubTexture name="DownMADTired0004" x="1928" y="969" width="434" height="457" frameX="-2" frameY="-10" frameWidth="439" frameHeight="468" />
+<SubTexture name="IdleMADTired0000" x="1168" y="527" width="334" height="526" frameX="0" frameY="-7" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0001" x="1168" y="527" width="334" height="526" frameX="0" frameY="-7" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0002" x="1168" y="0" width="334" height="527" frameX="0" frameY="-7" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0003" x="1168" y="0" width="334" height="527" frameX="0" frameY="-7" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0004" x="652" y="590" width="333" height="527" frameX="-1" frameY="-6" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0005" x="652" y="590" width="333" height="527" frameX="-1" frameY="-6" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0006" x="652" y="590" width="333" height="527" frameX="-1" frameY="-6" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0007" x="325" y="590" width="326" height="533" frameX="-4" frameY="-1" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0008" x="325" y="590" width="326" height="533" frameX="-4" frameY="-1" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0009" x="325" y="590" width="326" height="533" frameX="-4" frameY="-1" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0010" x="0" y="590" width="325" height="534" frameX="-4" frameY="0" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0011" x="0" y="590" width="325" height="534" frameX="-4" frameY="0" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0012" x="0" y="590" width="325" height="534" frameX="-4" frameY="0" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0013" x="0" y="590" width="325" height="534" frameX="-4" frameY="0" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0014" x="0" y="590" width="325" height="534" frameX="-4" frameY="0" frameWidth="334" frameHeight="534" />
+<SubTexture name="IdleMADTired0015" x="0" y="590" width="325" height="534" frameX="-4" frameY="0" frameWidth="334" frameHeight="534" />
+<SubTexture name="LeftMADTired0000" x="430" y="1124" width="429" height="518" frameX="-1" frameY="-4" frameWidth="430" frameHeight="522" />
+<SubTexture name="LeftMADTired0001" x="0" y="1124" width="430" height="521" frameX="0" frameY="-1" frameWidth="430" frameHeight="522" />
+<SubTexture name="LeftMADTired0002" x="0" y="1124" width="430" height="521" frameX="0" frameY="-1" frameWidth="430" frameHeight="522" />
+<SubTexture name="LeftMADTired0003" x="1503" y="0" width="425" height="521" frameX="-5" frameY="-1" frameWidth="430" frameHeight="522" />
+<SubTexture name="LeftMADTired0004" x="1503" y="0" width="425" height="521" frameX="-5" frameY="-1" frameWidth="430" frameHeight="522" />
+<SubTexture name="RightMADTired0000" x="859" y="1124" width="490" height="511" frameX="0" frameY="0" frameWidth="491" frameHeight="511" />
+<SubTexture name="RightMADTired0001" x="1350" y="1124" width="489" height="510" frameX="0" frameY="-1" frameWidth="491" frameHeight="511" />
+<SubTexture name="RightMADTired0002" x="1350" y="1124" width="489" height="510" frameX="0" frameY="-1" frameWidth="491" frameHeight="511" />
+<SubTexture name="RightMADTired0003" x="1928" y="0" width="482" height="510" frameX="0" frameY="-1" frameWidth="491" frameHeight="511" />
+<SubTexture name="RightMADTired0004" x="1928" y="0" width="482" height="510" frameX="0" frameY="-1" frameWidth="491" frameHeight="511" />
+<SubTexture name="upMADTired0000" x="0" y="0" width="387" height="590" frameX="-9" frameY="0" frameWidth="408" frameHeight="591" />
+<SubTexture name="upMADTired0001" x="776" y="0" width="392" height="575" frameX="0" frameY="-16" frameWidth="408" frameHeight="591" />
+<SubTexture name="upMADTired0002" x="776" y="0" width="392" height="575" frameX="0" frameY="-16" frameWidth="408" frameHeight="591" />
+<SubTexture name="upMADTired0003" x="387" y="0" width="389" height="579" frameX="-8" frameY="-11" frameWidth="408" frameHeight="591" />
+<SubTexture name="upMADTired0004" x="387" y="0" width="389" height="579" frameX="-8" frameY="-11" frameWidth="408" frameHeight="591" />
+</TextureAtlas>

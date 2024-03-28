@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfdate.png">
+	
+	
+	<SubTexture name="gf down0000" x="1" y="1" width="232" height="302" frameX="0" frameY="-1" frameWidth="232" frameHeight="303" />
+	<SubTexture name="gf down0001" x="1" y="1" width="232" height="302" frameX="0" frameY="-1" frameWidth="232" frameHeight="303" />
+	<SubTexture name="gf down0002" x="235" y="1" width="232" height="302" frameX="0" frameY="-1" frameWidth="232" frameHeight="303" />
+	<SubTexture name="gf down0003" x="235" y="1" width="232" height="302" frameX="0" frameY="-1" frameWidth="232" frameHeight="303" />
+	<SubTexture name="gf down0004" x="469" y="1" width="232" height="303" />
+	<SubTexture name="gf down0005" x="469" y="1" width="232" height="303" />
+	<SubTexture name="gf down0006" x="469" y="1" width="232" height="303" />
+	<SubTexture name="gf down0007" x="469" y="1" width="232" height="303" />
+	<SubTexture name="gf down0008" x="469" y="1" width="232" height="303" />
+	<SubTexture name="gf down0009" x="469" y="1" width="232" height="303" />
+	<SubTexture name="gf down0010" x="469" y="1" width="232" height="303" />
+	<SubTexture name="gf down0011" x="469" y="1" width="232" height="303" />
+	<SubTexture name="gf down0012" x="469" y="1" width="232" height="303" />
+	<SubTexture name="gf down0013" x="469" y="1" width="232" height="303" />
+	<SubTexture name="gf down0014" x="469" y="1" width="232" height="303" />
+	<SubTexture name="gf idle0000" x="703" y="1" width="232" height="304" frameX="0" frameY="-1" frameWidth="233" frameHeight="305" />
+	<SubTexture name="gf idle0001" x="703" y="1" width="232" height="304" frameX="0" frameY="-1" frameWidth="233" frameHeight="305" />
+	<SubTexture name="gf idle0002" x="937" y="1" width="232" height="304" frameX="0" frameY="-1" frameWidth="233" frameHeight="305" />
+	<SubTexture name="gf idle0003" x="937" y="1" width="232" height="304" frameX="0" frameY="-1" frameWidth="233" frameHeight="305" />
+	<SubTexture name="gf idle0004" x="1170" y="1" width="232" height="304" frameX="0" frameY="-1" frameWidth="233" frameHeight="305" />
+	<SubTexture name="gf idle0005" x="1170" y="1" width="232" height="304" frameX="0" frameY="-1" frameWidth="233" frameHeight="305" />
+	<SubTexture name="gf idle0006" x="1404" y="1" width="233" height="305" />
+	<SubTexture name="gf idle0007" x="1404" y="1" width="233" height="305" />
+	<SubTexture name="gf idle0008" x="1404" y="1" width="233" height="305" />
+	<SubTexture name="gf idle0009" x="1404" y="1" width="233" height="305" />
+	<SubTexture name="gf idle0010" x="1404" y="1" width="233" height="305" />
+	<SubTexture name="gf idle0011" x="1404" y="1" width="233" height="305" />
+	<SubTexture name="gf idle0012" x="1404" y="1" width="233" height="305" />
+	<SubTexture name="gf idle0013" x="1404" y="1" width="233" height="305" />
+	<SubTexture name="gf idle0014" x="1404" y="1" width="233" height="305" />
+	<SubTexture name="gf left0000" x="1639" y="1" width="231" height="304" frameX="0" frameY="0" frameWidth="232" frameHeight="304" />
+	<SubTexture name="gf left0001" x="1639" y="1" width="231" height="304" frameX="0" frameY="0" frameWidth="232" frameHeight="304" />
+	<SubTexture name="gf left0002" x="1" y="308" width="231" height="304" frameX="0" frameY="0" frameWidth="232" frameHeight="304" />
+	<SubTexture name="gf left0003" x="1" y="308" width="231" height="304" frameX="0" frameY="0" frameWidth="232" frameHeight="304" />
+	<SubTexture name="gf left0004" x="234" y="308" width="232" height="304" />
+	<SubTexture name="gf left0005" x="234" y="308" width="232" height="304" />
+	<SubTexture name="gf left0006" x="234" y="308" width="232" height="304" />
+	<SubTexture name="gf left0007" x="234" y="308" width="232" height="304" />
+	<SubTexture name="gf left0008" x="234" y="308" width="232" height="304" />
+	<SubTexture name="gf left0009" x="234" y="308" width="232" height="304" />
+	<SubTexture name="gf left0010" x="234" y="308" width="232" height="304" />
+	<SubTexture name="gf left0011" x="234" y="308" width="232" height="304" />
+	<SubTexture name="gf left0012" x="234" y="308" width="232" height="304" />
+	<SubTexture name="gf left0013" x="234" y="308" width="232" height="304" />
+	<SubTexture name="gf left0014" x="234" y="308" width="232" height="304" />
+	<SubTexture name="gf right0000" x="467" y="308" width="234" height="304" />
+	<SubTexture name="gf right0001" x="467" y="308" width="234" height="304" />
+	<SubTexture name="gf right0002" x="703" y="308" width="234" height="304" />
+	<SubTexture name="gf right0003" x="703" y="308" width="234" height="304" />
+	<SubTexture name="gf right0004" x="939" y="308" width="234" height="304" frameX="0" frameY="0" frameWidth="234" frameHeight="304" />
+	<SubTexture name="gf right0005" x="939" y="308" width="234" height="304" frameX="0" frameY="0" frameWidth="234" frameHeight="304" />
+	<SubTexture name="gf right0006" x="939" y="308" width="234" height="304" frameX="0" frameY="0" frameWidth="234" frameHeight="304" />
+	<SubTexture name="gf right0007" x="939" y="308" width="234" height="304" frameX="0" frameY="0" frameWidth="234" frameHeight="304" />
+	<SubTexture name="gf right0008" x="939" y="308" width="234" height="304" frameX="0" frameY="0" frameWidth="234" frameHeight="304" />
+	<SubTexture name="gf right0009" x="939" y="308" width="234" height="304" frameX="0" frameY="0" frameWidth="234" frameHeight="304" />
+	<SubTexture name="gf right0010" x="939" y="308" width="234" height="304" frameX="0" frameY="0" frameWidth="234" frameHeight="304" />
+	<SubTexture name="gf right0011" x="939" y="308" width="234" height="304" frameX="0" frameY="0" frameWidth="234" frameHeight="304" />
+	<SubTexture name="gf right0012" x="939" y="308" width="234" height="304" frameX="0" frameY="0" frameWidth="234" frameHeight="304" />
+	<SubTexture name="gf right0013" x="939" y="308" width="234" height="304" frameX="0" frameY="0" frameWidth="234" frameHeight="304" />
+	<SubTexture name="gf right0014" x="939" y="308" width="234" height="304" frameX="0" frameY="0" frameWidth="234" frameHeight="304" />
+	<SubTexture name="gf up0000" x="1175" y="308" width="233" height="306" />
+	<SubTexture name="gf up0001" x="1175" y="308" width="233" height="306" />
+	<SubTexture name="gf up0002" x="1410" y="308" width="233" height="306" frameX="0" frameY="0" frameWidth="233" frameHeight="306" />
+	<SubTexture name="gf up0003" x="1410" y="308" width="233" height="306" frameX="0" frameY="0" frameWidth="233" frameHeight="306" />
+	<SubTexture name="gf up0004" x="1644" y="308" width="233" height="305" frameX="0" frameY="-1" frameWidth="233" frameHeight="306" />
+	<SubTexture name="gf up0005" x="1644" y="308" width="233" height="305" frameX="0" frameY="-1" frameWidth="233" frameHeight="306" />
+	<SubTexture name="gf up0006" x="1644" y="308" width="233" height="305" frameX="0" frameY="-1" frameWidth="233" frameHeight="306" />
+	<SubTexture name="gf up0007" x="1644" y="308" width="233" height="305" frameX="0" frameY="-1" frameWidth="233" frameHeight="306" />
+	<SubTexture name="gf up0008" x="1644" y="308" width="233" height="305" frameX="0" frameY="-1" frameWidth="233" frameHeight="306" />
+	<SubTexture name="gf up0009" x="1644" y="308" width="233" height="305" frameX="0" frameY="-1" frameWidth="233" frameHeight="306" />
+	<SubTexture name="gf up0010" x="1644" y="308" width="233" height="305" frameX="0" frameY="-1" frameWidth="233" frameHeight="306" />
+	<SubTexture name="gf up0011" x="1644" y="308" width="233" height="305" frameX="0" frameY="-1" frameWidth="233" frameHeight="306" />
+	<SubTexture name="gf up0012" x="1644" y="308" width="233" height="305" frameX="0" frameY="-1" frameWidth="233" frameHeight="306" />
+	<SubTexture name="gf up0013" x="1644" y="308" width="233" height="305" frameX="0" frameY="-1" frameWidth="233" frameHeight="306" />
+	<SubTexture name="gf up0014" x="1644" y="308" width="233" height="305" frameX="0" frameY="-1" frameWidth="233" frameHeight="306" />
+</TextureAtlas>

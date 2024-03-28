@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mimick_TABI.png">
+<SubTexture name="YANTA MIMICK DOWN0000" x="941" y="2515" width="473" height="361" frameX="0" frameY="-7" frameWidth="473" frameHeight="369" />
+<SubTexture name="YANTA MIMICK DOWN0001" x="1414" y="2515" width="473" height="361" frameX="0" frameY="-7" frameWidth="473" frameHeight="369" />
+<SubTexture name="YANTA MIMICK DOWN0002" x="0" y="2515" width="470" height="362" frameX="-1" frameY="-7" frameWidth="473" frameHeight="369" />
+<SubTexture name="YANTA MIMICK DOWN0003" x="470" y="2515" width="470" height="362" frameX="-1" frameY="-7" frameWidth="473" frameHeight="369" />
+<SubTexture name="YANTA MIMICK DOWN0004" x="2560" y="0" width="459" height="367" frameX="-7" frameY="-2" frameWidth="473" frameHeight="369" />
+<SubTexture name="YANTA MIMICK IDLE0000" x="1347" y="1277" width="449" height="414" frameX="0" frameY="-8" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0001" x="449" y="1692" width="449" height="413" frameX="0" frameY="-8" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0002" x="449" y="1692" width="449" height="413" frameX="0" frameY="-8" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0003" x="1347" y="1692" width="449" height="412" frameX="0" frameY="-9" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0004" x="2111" y="0" width="449" height="412" frameX="0" frameY="-9" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0005" x="2111" y="412" width="449" height="412" frameX="0" frameY="-9" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0006" x="0" y="1277" width="449" height="415" frameX="0" frameY="-5" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0007" x="0" y="1277" width="449" height="415" frameX="0" frameY="-5" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0008" x="449" y="1277" width="449" height="415" frameX="0" frameY="-5" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0009" x="1662" y="419" width="449" height="418" frameX="0" frameY="-2" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0010" x="1662" y="837" width="449" height="417" frameX="0" frameY="-2" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0011" x="1213" y="0" width="449" height="419" frameX="0" frameY="0" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0012" x="1213" y="419" width="449" height="419" frameX="0" frameY="0" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0013" x="0" y="858" width="449" height="419" frameX="0" frameY="0" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0014" x="449" y="858" width="449" height="419" frameX="0" frameY="0" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0015" x="898" y="858" width="449" height="419" frameX="0" frameY="0" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK IDLE0016" x="1662" y="0" width="449" height="419" frameX="0" frameY="0" frameWidth="449" frameHeight="421" />
+<SubTexture name="YANTA MIMICK LEFT0000" x="1348" y="2106" width="450" height="403" frameX="0" frameY="-6" frameWidth="454" frameHeight="409" />
+<SubTexture name="YANTA MIMICK LEFT0001" x="1798" y="2106" width="450" height="403" frameX="0" frameY="-6" frameWidth="454" frameHeight="409" />
+<SubTexture name="YANTA MIMICK LEFT0002" x="449" y="2106" width="449" height="405" frameX="-2" frameY="-4" frameWidth="454" frameHeight="409" />
+<SubTexture name="YANTA MIMICK LEFT0003" x="899" y="2106" width="449" height="405" frameX="-2" frameY="-4" frameWidth="454" frameHeight="409" />
+<SubTexture name="YANTA MIMICK LEFT0004" x="0" y="2106" width="449" height="408" frameX="-4" frameY="-1" frameWidth="454" frameHeight="409" />
+<SubTexture name="YANTA MIMICK RIGHT0000" x="898" y="1277" width="449" height="414" frameX="-2" frameY="0" frameWidth="451" frameHeight="415" />
+<SubTexture name="YANTA MIMICK RIGHT0001" x="898" y="1277" width="449" height="414" frameX="-2" frameY="0" frameWidth="451" frameHeight="415" />
+<SubTexture name="YANTA MIMICK RIGHT0002" x="0" y="1692" width="449" height="414" frameX="-2" frameY="-1" frameWidth="451" frameHeight="415" />
+<SubTexture name="YANTA MIMICK RIGHT0003" x="898" y="1692" width="449" height="413" frameX="-2" frameY="-1" frameWidth="451" frameHeight="415" />
+<SubTexture name="YANTA MIMICK RIGHT0004" x="2111" y="824" width="449" height="412" frameX="0" frameY="-3" frameWidth="451" frameHeight="415" />
+<SubTexture name="YANTA MIMICK UP0000" x="0" y="0" width="404" height="429" frameX="-4" frameY="0" frameWidth="412" frameHeight="429" />
+<SubTexture name="YANTA MIMICK UP0001" x="404" y="0" width="404" height="429" frameX="-4" frameY="0" frameWidth="412" frameHeight="429" />
+<SubTexture name="YANTA MIMICK UP0002" x="0" y="429" width="405" height="428" frameX="-3" frameY="-1" frameWidth="412" frameHeight="429" />
+<SubTexture name="YANTA MIMICK UP0003" x="808" y="0" width="405" height="429" frameX="-3" frameY="-1" frameWidth="412" frameHeight="429" />
+<SubTexture name="YANTA MIMICK UP0004" x="405" y="429" width="410" height="426" frameX="-1" frameY="-3" frameWidth="412" frameHeight="429" />
+</TextureAtlas>
