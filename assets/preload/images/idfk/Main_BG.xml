@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Main_BG.png">
+	
+	
+	<SubTexture name="MAIN BG0000" x="0" y="0" width="663" height="558" />
+	<SubTexture name="MAIN BG0001" x="0" y="0" width="663" height="558" />
+	<SubTexture name="MAIN BG0002" x="0" y="0" width="663" height="558" />
+	<SubTexture name="MAIN BG0003" x="663" y="0" width="663" height="558" />
+	<SubTexture name="MAIN BG0004" x="663" y="0" width="663" height="558" />
+	<SubTexture name="MAIN BG0005" x="663" y="0" width="663" height="558" />
+</TextureAtlas>
