@@ -1964,8 +1964,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "banban",
-		"player3": null,
+		"player2": "",
 		"initialSpeed": 1.395,
 		"sliderVelocities": null,
 		"song": "judas-kiss",
